@@ -22,7 +22,7 @@ def pregunta_01():
     40
 
     """
-    return
+    return 0
 
 
 def pregunta_02():
